@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaCeibaSoftware", "PruebaCeibaSoftware\PruebaCeibaSoftware.csproj", "{4503D022-C270-4377-A55A-6C76D1F38B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{1D41857B-7300-4F65-8F56-B0B9C3F8305A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4503D022-C270-4377-A55A-6C76D1F38B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4503D022-C270-4377-A55A-6C76D1F38B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4503D022-C270-4377-A55A-6C76D1F38B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4503D022-C270-4377-A55A-6C76D1F38B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D41857B-7300-4F65-8F56-B0B9C3F8305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D41857B-7300-4F65-8F56-B0B9C3F8305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D41857B-7300-4F65-8F56-B0B9C3F8305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D41857B-7300-4F65-8F56-B0B9C3F8305A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624C0030-7A0E-44D4-9AC6-0D6470BFB064}
+	EndGlobalSection
+EndGlobal
